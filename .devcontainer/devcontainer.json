@@ -61,7 +61,12 @@
 				"WallabyJs.quokka-vscode",
 				"ZainChen.json",
 				"mtxr.sqltools-driver-pg",
-				"mongodb.mongodb-vscode"
+				"mongodb.mongodb-vscode",
+				"ms-python.python",
+				"ms-python.debugpy",
+				"KevinRose.vsc-python-indent",
+				"ms-python.vscode-pylance",
+				"ms-python.pylint"
 			]
 		}
 	}
