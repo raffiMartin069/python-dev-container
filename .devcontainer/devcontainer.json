@@ -66,9 +66,7 @@
 				"ms-python.debugpy",
 				"KevinRose.vsc-python-indent",
 				"ms-python.vscode-pylance",
-				"ms-python.pylint",
-				"dbaeumer.vscode-eslint",
-				"streetsidesoftware.code-spell-checker"	
+				"ms-python.pylint"
 			]
 		}
 	}
